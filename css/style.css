@@ -43,7 +43,7 @@ h1 {
 -----------------------------*/
 
 main {
-    width: 900px;
+    width: 1150px;
     height: auto;
     margin: 40px auto;
     background-color: #fff;
@@ -111,4 +111,39 @@ main {
 .error {
     border: 1px solid red;
     color: red;
+}
+
+/* ---------------------------
+            TAGS
+-----------------------------*/
+.tag {
+    display: inline-block;
+    color: #fff;
+    border-radius: 11px;
+    font-size: 12px;
+    padding: 5px 10px;
+}
+
+.babyblue {
+    background-color: #14AAF5;
+}
+
+.purple {
+    background-color: #ab5de6;
+}
+
+.green {
+    background-color: #2CC6AB;
+}
+
+.orange {
+    background-color: #FF9B00;
+}
+
+.pink {
+    background-color: #EC4A9D;
+}
+
+.lime-green {
+    background-color: #A3D116;
 }
