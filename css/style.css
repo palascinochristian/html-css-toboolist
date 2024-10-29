@@ -37,3 +37,36 @@ h1 {
     font-weight: 900;
     font-size: 40px;
 }
+
+/* ---------------------------
+            MAIN
+-----------------------------*/
+
+main {
+    width: 900px;
+    height: 1400px;
+    margin: 40px auto;
+    background-color: #fff;
+    border-radius: 6px;
+    padding: 20px 40px;
+}
+
+.btn {
+    padding: 7px 10px;
+    border-radius: 5px;
+    font-size: 14px;
+    font-weight: 400;
+    margin-bottom: 10px;
+}
+
+.btn-blue {
+    background-color: #14AAF5;
+    border: 1px solid #14AAF5;
+    color: #fff;
+}
+
+.btn-white {
+    background-color: #fff;
+    border: 1px solid #aeb3b685;
+    color: #aeb3b685;
+}
